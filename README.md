@@ -1,4 +1,4 @@
-# Researcher
+# Research
 
 #### Technical Skills: Python, SQL, Pytorch, MATLAB, Qiskit
 
