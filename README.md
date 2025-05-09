@@ -9,7 +9,7 @@
 **Research Assistant @ Dr. Razib Hayat Khan, North South University ( Aug 2023-Mar 2024 )**
 - Researched and identified information gaps and developed a data-driven Android app to provide essential resources for children with ASD, ensuring users have tailored access to crucial support and services.
 
-## Projects
+## Publications
 ### Towards Accurate AI-Driven Historical QA: A Retrieval-Augmented Model for Bangladeshi History
 
 Recent advancements in large language models (LLMs) have driven impressive progress in question-answering tasks, though challenges such as hallucination and misinformation remain. Our project introduces QA, an Open Source Conversational AI system tailored for Bangladesh's History, designed to mitigate these issues by integrating LLMs with human-verified data sources. This innovative approach not only strengthens accuracy but also sets a foundation for scalable, domain-specific chat models that can maintain reliable information integrity across diverse applications.
